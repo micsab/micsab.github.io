@@ -1,0 +1,24 @@
+p {
+  border: 4px solid magenta;
+  text-align: center;
+  padding: 10px;
+  width: 640px;
+}
+
+a {
+  border: 1px dashed blue;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+  display: block;
+  text-align: center;
+}
+
+.important {
+  background-color: green;
+}
+
+aside {
+  text-align: right;
+}
